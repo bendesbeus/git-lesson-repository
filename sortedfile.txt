@@ -1,0 +1,6 @@
+rm sortedfile.txt
+
+clear
+git add .
+cd ..
+exit
